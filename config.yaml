@@ -1,0 +1,21 @@
+master:
+  login: 332998531
+  password: "Azamat2301,"
+  server: "XMGlobal-MT5 Demo 9"
+  path: "C:/MT5_MasterDemo/terminal64.exe"
+
+slaves:
+  - login: 332998579
+    password: "Azamat2301,"
+    server: "XMGlobal-MT5 Demo 9"
+    path: "C:/MT5_Slave1Demo/terminal64.exe"
+
+  - login: 313652330
+    password: "Azamat2301,"
+    server: "XMGlobal-MT5 Demo 7"
+    path: "C:/MT5_Slave2Demo/terminal64.exe"
+
+telegram:
+  token: "7672375568:AAHVQ4770Jq-X6oZ9L5gA3nVdo2gLFCnIzc"
+  chat_id: 731008470
+
